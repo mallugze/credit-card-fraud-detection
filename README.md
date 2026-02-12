@@ -18,3 +18,13 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 ## 📊 Dataset
 Kaggle Credit Card Fraud Detection Dataset  
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+## 📈 Model Performance
+
+- ROC-AUC Score: ~0.95
+- Improved Recall for Fraud Detection using class-weight balancing
+- Successfully handled extreme class imbalance (<0.2% fraud cases)
+
+### Key Insight
+In fraud detection, minimizing false negatives (missed frauds) is more important than overall accuracy.
+
