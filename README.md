@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 - ROC-AUC Score: ~0.97
 - Improved Recall for Fraud Detection using class-weight balancing
-- Successfully handled extreme class imbalance (<0.2% fraud cases)
+- Successfully handled extreme class imbalance 
 
 ### Key Insight
 In fraud detection, minimizing false negatives (missed frauds) is more important than overall accuracy.
