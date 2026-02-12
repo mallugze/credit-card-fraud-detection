@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## 📈 Model Performance
 
-- ROC-AUC Score: ~0.95
+- ROC-AUC Score: ~0.97
 - Improved Recall for Fraud Detection using class-weight balancing
 - Successfully handled extreme class imbalance (<0.2% fraud cases)
 
